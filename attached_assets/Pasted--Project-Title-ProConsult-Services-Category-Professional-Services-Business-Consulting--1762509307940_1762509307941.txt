@@ -1,0 +1,96 @@
+💼 Project Title:
+
+ProConsult Services
+
+🏢 Category:
+
+Professional Services / Business Consulting
+
+🌐 Website Type:
+
+Static Multi-Page Portfolio Website
+
+✨ Overview:
+
+ProConsult Services is a sleek, modern consulting firm website designed to convey trust, expertise, and professionalism. Built as a static site, it delivers fast performance, elegant design, and clear presentation of services, team, and contact information — ideal for showcasing on your WebGlow portfolio.
+
+🧩 Pages & Structure
+1. Home Page
+
+Hero banner with tagline like “Guiding Businesses Toward Smarter Solutions.”
+
+Quick overview of services in 3–4 columns with minimal icons.
+
+Brief “About the Company” section.
+
+Client testimonials carousel (static).
+
+Call-to-action: “Get in Touch.”
+
+2. About Us
+
+Story of ProConsult: mission, vision, and approach.
+
+“Why Choose Us” section with stats and icons.
+
+Meet the Team: professional profile cards with photos, roles, and LinkedIn links.
+
+3. Services
+
+Grid layout for major consulting areas:
+
+Business Strategy
+
+Financial Planning
+
+Digital Transformation
+
+HR & Operations
+
+Each service card expands to a brief paragraph on hover.
+
+4. Clients & Testimonials
+
+Showcase of client logos (in grayscale that glow on hover).
+
+Rotating testimonials with names and designations.
+
+5. Contact Page
+
+Contact form (Name, Email, Subject, Message).
+
+Map section (static embed).
+
+Quick contact info and links to social media.
+
+🎨 Design Style
+
+Theme: Light mode with navy & golden accents (professional tone).
+
+Layout: Clean grid, plenty of white space, rounded card shadows.
+
+Font: “Poppins” or “Inter” for modern business look.
+
+Icons: Line-style business icons (from FontAwesome).
+
+Buttons: Soft glow on hover (signature WebGlow touch).
+
+⚙️ Tech Stack
+
+HTML5, CSS3, JS (Vanilla)
+
+AOS (Animate On Scroll) for subtle motion.
+
+Formspree or Netlify Forms for working contact form.
+
+Fully responsive layout for all devices.
+
+💡 Highlight Features
+
+Static but dynamic-feeling animations.
+
+SEO-optimized structure (meta tags, schema).
+
+Quick-load, clean code for showcasing in portfolio.
+
+Professional and easy to customize for client use.
